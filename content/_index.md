@@ -65,15 +65,15 @@ sections:
       text: |
         <span style="font-size: 0.9rem;">
         The CoMind Lab is funded by the 
-        <a href="https://snf.ch">Swiss National Science Foundation (SNSF)</a>
+        <a href="https://snf.ch" style="text-decoration: none;">Swiss National Science Foundation (SNSF)</a>
         with a Starting Grant to Prof. Dr. Juliane Kämmer (project number 
-        <a href="https://data.snf.ch/grants/grant/218047">TMSGI1_218047</a>).
+        <a href="https://data.snf.ch/grants/grant/218047" style="text-decoration: none;">TMSGI1_218047</a>).
         The lab is part of the 
-        <a href="http://dxq.ch/">Diagnostic Quality Lab</a>
+        <a href="http://dxq.ch/" style="text-decoration: none;">Diagnostic Quality Lab</a>
         at the 
-        <a href="https://notfallmedizin.insel.ch/de/lehre-und-forschung/forschungsschwerpunkte-und-gruppen/diagnostic-quality-lab">Department of Emergency Medicine</a> 
+        <a href="https://notfallmedizin.insel.ch/de/lehre-und-forschung/forschungsschwerpunkte-und-gruppen/diagnostic-quality-lab" style="text-decoration: none;">Department of Emergency Medicine</a> 
         at the 
-        <a href="https://unibe.ch">University of Bern</a>, Switzerland.
+        <a href="https://unibe.ch" style="text-decoration: none;">University of Bern</a>, Switzerland.
         </span>
 
       image:
