@@ -8,8 +8,7 @@ authors:
 - Wolfgang Gaissmaier
 date: '2015-01-01'
 publishDate: '2025-04-09T15:10:00.810708Z'
-publication_types:
-- article-journal
+publication_types: ["article-journal"]
 publication: '*JAMA*'
 #doi: 10.1001/jama.2014.15770
 links:
@@ -17,8 +16,7 @@ links:
   url: http://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2014.15770
 - name: PDF
   url: /publication4.pdf
-- name: Cite
-  name: /cite.bib
+
 ---
 
 **Excerpt from the research letter**
