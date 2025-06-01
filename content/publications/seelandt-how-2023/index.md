@@ -8,10 +8,10 @@ authors:
 date: '2023-08-01'
 #doi: "10.3389/fpsyg.2023.1232331"
 publishDate: '2025-04-09T15:10:00.832388Z'
-publication_types:
+publication_types: 
 - article-journal
-publication: "Frontiers in Psychology"
-citation: false
+publication: "*Frontiers in Psychology*"
+publication_short: ""
 links:
 - name: URL
   url: https://pubmed.ncbi.nlm.nih.gov/37637888/
