@@ -112,8 +112,4 @@ extensions:
   academicons:
     enable: true
 
-# Citation style
-
-publications:
-  citation: true
 
