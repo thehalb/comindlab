@@ -2,7 +2,7 @@
 title: 'Collaboration during the diagnostic decision‐making process: When does it
   help?'
 authors:
-- admin
+- Juliane E. Kämmer
 - Karin Ernst
 - Kim Grab
 - Stefan K. Schauber

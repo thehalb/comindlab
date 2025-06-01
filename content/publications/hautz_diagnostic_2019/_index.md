@@ -3,7 +3,7 @@ title: Diagnostic error increases mortality and length of hospital stay in patie
   presenting through the emergency room
 authors:
 - Wolf E. Hautz
-- admin
+- Juliane E. Kämmer
 - Stefanie C. Hautz
 - Thomas C. Sauter
 - Laura Zwaan

@@ -2,7 +2,7 @@
 title: Diagnostic Performance by Medical Students Working Individually or in Teams
 authors:
 - Wolf E. Hautz
-- admin
+- Juliane E. Kämmer
 - Stefan K. Schauber
 - Claudia D. Spies
 - Wolfgang Gaissmaier
