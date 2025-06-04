@@ -5,11 +5,14 @@ image:
   caption: "© UKN"
 ---
 
-Can teamwork in medicine really reduce diagnostic errors—or does it sometimes make things worse? Our research uncovers the surprising conditions under which collaboration helps (or hinders) medical decision-making.
+Can teamwork in medicine improve diagnostic quality—or does it sometimes make things worse? Our research uncovers the conditions under which collaboration helps (or hinders) medical decision-making.
 
 <!--more-->
 
 Effective teamwork plays a crucial role in medical diagnosis, influencing decision accuracy, collaboration quality, and overall patient outcomes. Our research explores the factors shaping diagnostic team performance, investigating when and why collaboration enhances decision-making. Through field studies, experimental designs, and survey research, we examine how factors such as case complexity, workload, professional hierarchies, and interprofessional stereotypes affect teamwork. Our findings reveal that collaboration often improves diagnostic accuracy by allowing team members to cross-check information and correct errors—though its benefits depend on the stage of the diagnostic process and the expertise of those involved. By understanding these dynamics, we aim to inform strategies for optimizing teamwork in medical settings, fostering better training approaches, and reducing diagnostic errors.
+
+In an ongoing study the ethnographic research team at our lab explores this question through in-depth observations and interviews in Swiss emergency departments.  
+[Learn more about the team and the current project.](https://www.teams-notfall.org/)
 
 **Scientific Writings**
 
@@ -22,4 +25,4 @@ Effective teamwork plays a crucial role in medical diagnosis, influencing decisi
 
 - Hautz, W. E., Hautz, S. C., & Kämmer, J. E. (2020). Whether two heads are better than one is the wrong question (though sometimes they are). Advances in Health Sciences Education. https://doi.org/10.1007/s10459-020-09956-z
 
-- Hautz, W. E.*, Kämmer, J. E.*, Schauber, S. K., Spies, C. D., & Gaissmaier, W. (2015). Diagnostic performance by medical students working individually or in teams. JAMA, 313, 303–304. https://doi.org/10.1001/jama.2014.15770 
+- Hautz, W. E., Kämmer, J. E., Schauber, S. K., Spies, C. D., & Gaissmaier, W. (2015). Diagnostic performance by medical students working individually or in teams. JAMA, 313, 303–304. https://doi.org/10.1001/jama.2014.15770 

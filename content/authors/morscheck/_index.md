@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lara.morscheck@unibe.ch'
+    link: 'mailto:lara.morscheck@students.unibe.ch'
   - icon: linkedin
     icon_pack: fab
     link: 'https://www.linkedin.com/in/lara-morscheck'

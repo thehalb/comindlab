@@ -10,7 +10,7 @@ sections:
         Welcome to the CoMind Lab!
       text: |
         
-        Our research group studies **decision making under uncertainty**, such as in the emergency room, to gain a clearer understanding of how medical diagnostics and other high-risk decisions can be improved.
+        Our research group studies **decision making under uncertainty**, such as in the emergency room, to gain a clearer understanding of how medical diagnosis and other high-risk decisions can be improved.
 
         {{% cta cta_link="./research/" cta_text="More about our research" %}}
       image:
@@ -22,7 +22,7 @@ sections:
     content:
       title: The CoMind Lab at INGRoup 2025
       text: |
-        We’re excited to announce that the CoMind Lab will host a workshop at this year’s INGRoup conference on July 17 2025 in Rotterdam:
+        We’re excited to announce that the CoMind Lab will host a workshop at this year’s [INGRoup conference](https://www.ingroup.net/content.aspx?page_id=22&club_id=300815&module_id=670795) on July 17 2025 in Rotterdam:
 
         “Team Research Reimagined: Applying Diverse Perspectives on Team Interactions.”
 
@@ -49,9 +49,9 @@ sections:
     content:
       title: News
       text: |
-        **April 2025:** First retreat of the CoMind research group.
+        **May 2025:** Juliane Kämmer presents the work of the CoMind Lab at this year´s ABC workshop in Rome that reunites all former members of the [Center for Adaptive Behavior and Cognition](https://www.mpib-berlin.mpg.de/research/concluded-areas/center-for-adaptive-behavior-and-cognition).
 
-        **March 2025:** We are seeking a [Master student](https://notfallmedizin.insel.ch/fileadmin/Notfallzentrum/PDF_Dokumente/Forschung_Div._PDF_Dokumente/Ausschreibung_Masterarbeit_Ethnographie_CoMind_Lab.pdf) for our ethnographic study and a [PhD student](https://notfallmedizin.insel.ch/fileadmin/Notfallzentrum/PDF_Dokumente/Forschung_Div._PDF_Dokumente/CoMind_PhD_student_1.pdf) for our experimental work.
+        **April 2025:** First retreat of the CoMind research group.
 
         **February 2025:** Maike Isaac starts her Postdoc at the CoMind Lab. Mara Hofer and Theresa Halbritter join the research group as student research assistants.
     design:
