@@ -2,11 +2,10 @@
 title: News
 pager: false
 ---
+**May 2025:** Juliane Kämmer presents the work of the CoMind Lab at this year´s ABC workshop in Rome that reunites all former members of the [Center for Adaptive Behavior and Cognition](https://www.mpib-berlin.mpg.de/research/concluded-areas/center-for-adaptive-behavior-and-cognition).
+
 
 **April 2025:** First retreat of the CoMind research group.
-
-
-**March 2025:** We are seeking a [Master student](https://notfallmedizin.insel.ch/fileadmin/Notfallzentrum/PDF_Dokumente/Forschung_Div._PDF_Dokumente/Ausschreibung_Masterarbeit_Ethnographie_CoMind_Lab.pdf) for our ethnographic study and a [PhD student](https://notfallmedizin.insel.ch/fileadmin/Notfallzentrum/PDF_Dokumente/Forschung_Div._PDF_Dokumente/CoMind_PhD_student_1.pdf) for our experimental work.
 
 
 **February 2025:** Maike Isaac starts her Postdoc at the CoMind Lab. Mara Hofer and Theresa Halbritter join the research group as research assistants.

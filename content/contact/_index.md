@@ -3,7 +3,7 @@ title: Contact
 pager: false
 ---
 
-If you are interested in the work we do or joining the group or collaborating, please get in touch.
+If you are interested in the work we do, joining the group or collaborating, please get in touch.
 
 
 **Prof. Dr. Juliane Kämmer**
