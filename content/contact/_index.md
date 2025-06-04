@@ -9,7 +9,7 @@ If you are interested in the work we do, joining the group or collaborating, ple
 **Prof. Dr. Juliane Kämmer**
 
 [University of Bern](https://www.unibe.ch/)  
-[Universitätsklinik für Notfallmedizin](https://notfallmedizin.insel.ch/de/lehre-und-forschung/forschungsschwerpunkte-und-gruppen)  
+[University Clinic for Emergency Medicine](https://notfallmedizin.insel.ch/de/lehre-und-forschung/forschungsschwerpunkte-und-gruppen)  
 [CoMind Lab](https://notfallmedizin.insel.ch/de/lehre-und-forschung/forschungsschwerpunkte-und-gruppen/diagnostic-quality-lab/comind)  
 Rosenbühlgasse 27  
 3010 Bern  
