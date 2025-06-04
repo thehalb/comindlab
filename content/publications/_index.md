@@ -14,7 +14,4 @@ banner:
 For a full publication list see [Google Scholar](https://scholar.google.de/citations?user=S56rRf8AAAAJ&hl=de).
 <br> <br>
 
-## **Most Recent Publication**
-
-
 ## **5 Key Publications**
