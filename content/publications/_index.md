@@ -17,4 +17,4 @@ For a full publication list see [Google Scholar](https://scholar.google.de/citat
 ## **Most Recent Publication**
 
 
-## **5 key publications**
+## **5 Key Publications**
