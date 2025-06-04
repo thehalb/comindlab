@@ -12,8 +12,7 @@ publishDate: '2025-04-09T15:10:00.800769Z'
 publication_types: ["article-journal"]
 publication: '*Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine*'
 #doi: 10.1186/s13049-019-0591-9
-tags:
-  - key
+tags: [key]
 
 links:
 - name: URL

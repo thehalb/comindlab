@@ -11,8 +11,7 @@ publishDate: '2025-04-09T15:10:00.832388Z'
 publication_types: ["article-journal"]
 publication: "*Frontiers in Psychology*"
 publication_short: ""
-tags:
-  - recent
+tags: [recent]
 links:
 - name: URL
   url: https://pubmed.ncbi.nlm.nih.gov/37637888/
