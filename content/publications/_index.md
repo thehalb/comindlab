@@ -1,5 +1,7 @@
 ---
 title: Publications
+type: page
+layout: page
 sections:
   - block: markdown
     content:
@@ -14,10 +16,11 @@ sections:
 
   - block: publications
     content:
+      title: ""
+      view: citation
+      count: 3
       filter:
         tag: recent
-      count: 3
-      view: citation
 
   - block: markdown
     content:
@@ -26,8 +29,9 @@ sections:
 
   - block: publications
     content:
+      title: ""
+      view: citation
+      count: 5
       filter:
         tag: key
-      count: 5
-      view: citation
 ---
