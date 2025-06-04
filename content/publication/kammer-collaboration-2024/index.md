@@ -33,6 +33,7 @@ abstract: "Abstract  When making complex decisions, such as a medical diagnosis,
   greater knowledge base. These findings encourage the strategic use of collaboration
   with a colleague when making complex decisions. Further research into the underlying
   processes is needed."
+tags: [recent]
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1002/bdm.2357

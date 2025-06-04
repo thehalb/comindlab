@@ -27,7 +27,9 @@ abstract: 'The aim of this paper is to inspire team research to apply diverse an
   the benefits associated with employing these diverse approaches. Finally, we offer
   our own insights and opinions on the integration of these approaches, as well as
   the types of data required to conduct such analyses.'
+tags: [recent]
 links:
 - name: URL
   url: https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1232331/full
 ---
+
