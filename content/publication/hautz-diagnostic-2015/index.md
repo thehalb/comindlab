@@ -11,9 +11,15 @@ publishDate: '2025-06-02T10:11:03.283855Z'
 publication_types:
 - article-journal
 publication: '*JAMA*'
-doi: 10.1001/jama.2014.15770
+#doi: 10.1001/jama.2014.15770
 links:
 - name: URL
   url: http://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2014.15770
-tags: [key]
+- name: PDF
+  url: /publication4.pdf
+
 ---
+
+**Excerpt from the research letter**
+
+Diagnostic errors contribute substantially to preventable medical error.1 Cognitive error is among the leading causes and mostly results from faulty data synthesis.2 Furthermore, reflecting on their confidence does not prevent physicians from committing diagnostic errors.1 Diagnostic decisions usually are not made by individual physicians working alone. Our aim was to investigate the effect of working in pairs as opposed to alone on diagnostic performance.
