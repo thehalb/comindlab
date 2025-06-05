@@ -63,4 +63,4 @@ user_groups:
 ---
 Theresa Halbritter is a student research assistant at the CoMind Lab, where she contributes to ongoing research projects in psychology. She is currently pursuing a Master’s degree in Psychology at the University of Bern, specializing in cognitive psychology, perception, and research methods. As part of her studies, she is conducting her Master’s thesis in cognitive neuroscience at the University Hospital of Old Age Psychiatry and Psychotherapy (UPD).
 
-She earned her Bachelor's degree in Psychology from the University of Graz in Austria, where she wrote her thesis on trust in artificial intelligence. Her research interests span both basic and applied science, focusing on the neural and cognitive mechanisms underlying memory and decision-making - especially in contexts involving uncertainty.
+She earned her Bachelor's degree in Psychology from the University of Graz in Austria, where she wrote her thesis on trust in artificial intelligence. Her research interests span both basic and applied science, focusing on the neural and cognitive mechanisms underlying memory and decision-making.

@@ -62,5 +62,6 @@ user_groups:
   - Team members
 ---
 Mara Hofer is a student research assistant in the ethnography team of the CoMind Lab at the University of Bern. She studies social anthropology at the Department of Social Anthropology and Cultural Studies at the University of Bern. Mara is interested in the construction of knowledge in expert fields and in legitimation processes in hierarchical systems. 
-In her bachelor's thesis, she examined discourses and practices in the context of decolonization processes in Swiss museums. Mara enjoys working with people and texts. From 2021 to 2025, she was a member of the editorial board of the student newspaper at the University of Bern. In 2024 she completed an internship in local journalism at the online medium “Hauptstadt”. From 2022 to 2024 she was a board member of the student body.
+
+In her Bachelor's thesis, she examined discourses and practices in the context of decolonization processes in Swiss museums. Mara enjoys working with people and texts. From 2021 to 2025, she was a member of the editorial board of the student newspaper at the University of Bern. In 2024 she completed an internship in local journalism at the online medium “Hauptstadt”. From 2022 to 2024 she was a board member of the student body.
 
