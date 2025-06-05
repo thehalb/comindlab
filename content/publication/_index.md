@@ -1,17 +1,17 @@
 ---
 title: Publications
-# Listing view
-view: citation
+sections:
+  - block: markdown
+    content:
+      title: All Publications
+      text: |
+        For a full publication list see [Google Scholar](https://scholar.google.de/citations?user=S56rRf8AAAAJ&hl=de).
 
-# Optional banner image (relative to assets/media/ folder).
-banner:
-  caption: ''
-  image: ''
+  - block: publications
+    content:
+      title: 5 Key Publications
+      filter:
+        tag: key
+      count: 5
+      view: citation
 ---
-
-## **All Publications**
-
-For a full publication list see [Google Scholar](https://scholar.google.de/citations?user=S56rRf8AAAAJ&hl=de).
-<br> <br>
-
-## **5 Key Publications**
