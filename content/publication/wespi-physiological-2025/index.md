@@ -21,5 +21,5 @@ links:
 - name: URL
   url: https://advancesinsimulation.biomedcentral.com/articles/10.1186/s41077-025-00335-5
 - name: PDF
-  url: /seelandt_how_2023.pdf
+  url: /wespi_physiological_2025.pdf
 ---

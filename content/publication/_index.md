@@ -1,5 +1,6 @@
 ---
 title: Publications
+
 sections:
   - block: markdown
     content:
@@ -9,9 +10,16 @@ sections:
 
   - block: publications
     content:
+      title: Newest Publications
+      view: citation
+      filter:
+        tag: new
+
+  - block: publications
+    content:
       title: 5 Key Publications
+      view: citation
       filter:
         tag: key
       count: 5
-      view: citation
 ---
