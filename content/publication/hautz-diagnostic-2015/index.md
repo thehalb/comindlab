@@ -23,4 +23,4 @@ links:
 
 **Excerpt from the research letter**
 
-Diagnostic errors contribute substantially to preventable medical error.1 Cognitive error is among the leading causes and mostly results from faulty data synthesis.2 Furthermore, reflecting on their confidence does not prevent physicians from committing diagnostic errors.1 Diagnostic decisions usually are not made by individual physicians working alone. Our aim was to investigate the effect of working in pairs as opposed to alone on diagnostic performance.
+Diagnostic errors contribute substantially to preventable medical error. Cognitive error is among the leading causes and mostly results from faulty data synthesis. Furthermore, reflecting on their confidence does not prevent physicians from committing diagnostic errors. Diagnostic decisions usually are not made by individual physicians working alone. Our aim was to investigate the effect of working in pairs as opposed to alone on diagnostic performance.
