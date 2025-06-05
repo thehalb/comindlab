@@ -13,7 +13,7 @@ publishDate: '2025-06-05T00:00:00Z'
 publication_types:
 - article-journal
 publication: '*BMJ Open*'
-tags: [most recent publication, all]
+tags: [most recent publications, all]
 links:
 - name: URL
   url: https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2024-087469
