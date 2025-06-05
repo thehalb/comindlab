@@ -16,7 +16,7 @@ links:
 - name: URL
   url: https://pubmed.ncbi.nlm.nih.gov/37637888/
 - name: PDF
-  url: /publication2.pdf
+  url: /seelandt_how_2023.pdf
 ---
 **Abstract**
 

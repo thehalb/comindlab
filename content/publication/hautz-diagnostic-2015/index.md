@@ -16,7 +16,7 @@ links:
 - name: URL
   url: http://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2014.15770
 - name: PDF
-  url: /publication4.pdf
+  url: /hautz_diagnostic_2015.pdf
 
 ---
 

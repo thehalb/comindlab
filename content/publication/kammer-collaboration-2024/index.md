@@ -20,7 +20,7 @@ links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1002/bdm.2357
 - name: PDF
-  url: /publication1.pdf
+  url: /kammer_collaboration_2024.pdf
 ---
 **Abstract**
 
