@@ -11,7 +11,7 @@ publication_types:
 - article-journal
 publication: '*Frontiers in Psychology*'
 #doi: 10.3389/fpsyg.2023.1232331
-tags: [key]
+tags: [5 key publications, all]
 links:
 - name: URL
   url: https://pubmed.ncbi.nlm.nih.gov/37637888/

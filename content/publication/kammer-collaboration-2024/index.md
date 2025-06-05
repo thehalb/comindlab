@@ -15,7 +15,7 @@ publication_types:
 - article-journal
 publication: '*Journal of Behavioral Decision Making*'
 #doi: 10.1002/bdm.2357
-tags: [key]
+tags: [most recent publication, all]
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1002/bdm.2357

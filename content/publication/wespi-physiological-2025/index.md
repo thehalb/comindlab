@@ -16,7 +16,7 @@ publication_types:
 - article-journal
 publication: '*Advances in Simulation*'
 #doi: 10.1186/s41077-025-00335-5
-tags: [new]
+tags: [most recent publication, 5 key publications, all]
 links:
 - name: URL
   url: https://advancesinsimulation.biomedcentral.com/articles/10.1186/s41077-025-00335-5
