@@ -27,7 +27,10 @@ education:
   courses:
     - course: MSc Student in Psychology
       institution: University of Bern, Switzerland
-      year: 
+      year: 2023 - present
+    - course: BSc in Psychology
+      institution: University of Bern, Switzerland
+      year: 2016 - 2023
     - course: BSc in Nursing (NTE)
       institution: 
       year: 
