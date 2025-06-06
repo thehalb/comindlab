@@ -1,11 +1,14 @@
 ---
 title: Research
-widget: page
-design:
-  view: card  
-  columns: 3 
-  spacing: 2
-  aspect_ratio: 4:3 
+showDate: false
+
+# Listing view
+view: compact
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---
 Incorrect medical diagnoses are unfortunately common, and some of them can have serious consequences for patients. However, there is limited understanding of the circumstances under which such errors occur and of how effective collaboration within the diagnostic team can help prevent them.
 
