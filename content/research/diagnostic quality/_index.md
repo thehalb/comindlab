@@ -3,11 +3,10 @@ title: Diagnostic quality
 image:
   filename: "featured.jpg"
   caption: "© UKN"
+summary:  >
+  How can we improve the accuracy and reliability of medical diagnoses to enhance patient safety? Our research investigates the factors influencing diagnostic quality and effective strategies to reduce risks in clinical practice.
+
 ---
-
-How can we improve the accuracy and reliability of medical diagnoses to enhance patient safety? Our research investigates the factors influencing diagnostic quality and effective strategies to reduce risks in clinical practice.
-
-<!--more-->
 
 Diagnostic quality is fundamental to patient safety and effective healthcare. Our research investigates how diagnostic quality influences patient outcomes, such as mortality rates and the length of hospital stays, particularly in emergency settings. We explore the roles of patients, physicians, and contextual factors in driving diagnostic resource use and identify predictors for diagnostic changes and non-specific diagnoses. Interventions - including simulation-based training and diagnostic checklists - show promise in enhancing diagnostic quality and improving the detection of in-hospital risks. By uncovering and addressing the complex factors that shape diagnostic processes, our goal is to foster safer clinical environments and deliver better care to patients.
 

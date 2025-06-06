@@ -3,11 +3,9 @@ title: Self-monitoring
 image:
   filename: "featured.jpg"
   caption: "© Shutterstock"
+summary:  >
+  How accurately can healthcare professionals assess their own performance, and what factors influence self-monitoring? Our research delves into the mechanisms and effectiveness of self-monitoring in clinical teams and individual practitioners.
 ---
-
-How accurately can healthcare professionals assess their own performance, and what factors influence self-monitoring? Our research delves into the mechanisms and effectiveness of self-monitoring in clinical teams and individual practitioners.
-
-<!--more-->
 
 Self-monitoring is a critical skill for clinicians, influencing both individual learning and team performance. Our research examines how accurately healthcare providers can evaluate their own clinical decisions and actions, and whether experience, ability, or case complexity affect this accuracy. 
 

@@ -3,11 +3,9 @@ title: Diagnostic team decision making
 image:
   filename: "featured.jpg"
   caption: "© UKN"
+summary:  >
+  Can teamwork in medicine improve diagnostic quality—or does it sometimes make things worse? Our research uncovers the conditions under which collaboration helps (or hinders) medical decision-making.
 ---
-
-Can teamwork in medicine improve diagnostic quality—or does it sometimes make things worse? Our research uncovers the conditions under which collaboration helps (or hinders) medical decision-making.
-
-<!--more-->
 
 Effective teamwork is essential for medical diagnosis, as it directly impacts decision accuracy, collaboration quality, and patient outcomes. Our research examines the factors that shape diagnostic team performance, focusing on when and why collaboration enhances decision-making. Through field studies, experimental designs, and surveys, we explore how elements such as case complexity, workload, professional hierarchies, and interprofessional stereotypes influence teamwork. Our findings show that collaboration often improves diagnostic accuracy by enabling team members to cross-check information, although the benefits vary depending on the stage of the diagnostic process and the expertise of the team members involved. By understanding these dynamics, we aim to develop strategies for optimizing teamwork in healthcare, improving training approaches, and enhancing diagnostic quality.
 
