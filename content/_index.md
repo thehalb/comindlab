@@ -9,7 +9,7 @@ sections:
       title: |
         Welcome to the CoMind Lab!
       text: |
-        Our research group studies **decision making under uncertainty**, such as in the emergency room, to gain a clearer understanding of how medical diagnosis and other high-risk decisions can be improved.
+        Our research group studies **decision-making under uncertainty**, such as in the emergency room, to gain a clearer understanding of how medical diagnosis and other high-risk decisions can be improved.
 
         {{% cta cta_link="./research/" cta_text="More about our research" %}}
       image:
@@ -39,7 +39,9 @@ sections:
       title: Ongoing study
       text: |
         How is teamwork experienced in the diagnostic process of emergency care?  
-        The ethnographic research team at our lab explores this question through in-depth observations and interviews in Swiss emergency departments.  
+
+        The ethnographic research team at our lab explores this question through in-depth observations and interviews in Swiss emergency departments. 
+         
         [Learn more about the team and the current project.](https://www.teams-notfall.org/)
     design:
       columns: "2"
