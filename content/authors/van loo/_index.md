@@ -11,7 +11,7 @@ last_name: van Loo
 superuser: false
 
 # Role/position
-role: Assistant Head of Research
+role: Assistant to the Head of Research
 
 # Organizations/Affiliations
 organizations:
