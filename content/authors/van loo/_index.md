@@ -26,6 +26,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:peggy.vanloo@insel.ch'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://ch.linkedin.com/in/peggy-ruth-van-loo-40a24914'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
