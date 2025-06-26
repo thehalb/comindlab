@@ -53,9 +53,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: 'https://orcid.org/0000-0001-6042-8453'
-  - icon: bluesky
-    icon_pack: fab
-    link: 'https://bsky.app/profile/julianekaemmer.bsky.social'
+#  - icon: bluesky
+#    icon_pack: fab
+#    link: 'https://bsky.app/profile/julianekaemmer.bsky.social'
   - icon: researchgate
     icon_pack: ai
     link: 'https://www.researchgate.net/profile/Juliane-Kaemmer'
