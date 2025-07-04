@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Danaé Alexander
-weight: 6
+weight: 7
 
 # Full Name (for SEO)
 first_name: Danaé 

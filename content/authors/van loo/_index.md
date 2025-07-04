@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Peggy van Loo
-weight: 8
+weight: 9
 
 # Full Name (for SEO)
 first_name: Peggy

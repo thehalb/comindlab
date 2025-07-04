@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Theresa Halbritter
-weight: 4
+weight: 5
 
 # Full Name (for SEO)
 first_name: Theresa

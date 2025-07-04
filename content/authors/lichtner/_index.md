@@ -1,36 +1,35 @@
 ---
 # Display name
-title: Mara Hofer
-weight: 6
+title: Lukas Lichtner
+weight: 4
 
 # Full Name (for SEO)
-first_name: Mara
-last_name: Hofer
+first_name: Lukas
+last_name: Lichtner
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
   - name: University of Bern
     url: 'https://www.unibe.ch/'
 
-interests:
-  - Expert fields
-  - Knowledge cultures
-  - Power
 
 education:
   courses:
-    - course: MA Student in Social Anthropology
+    - course: PhD Candidate Psychology
       institution: University of Bern, Switzerland
       year: 2025 - present
-    - course: BA in Social Anthropology
-      institution: University of Bern, Switzerland
-      year: 2021 - 2025
+    - course: MSc in Psychology
+      institution: University of Basel, Switzerland
+      year: 2024-2025
+    - course: BSc in Psychology
+      institution: University of Basel, Switzerland
+      year: 2020-2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -39,10 +38,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:mara.hofer@unibe.ch'
+    link: 'mailto:lukas.lichtner@extern.insel.ch'
   - icon: linkedin
     icon_pack: fab
-    link: 'https://www.linkedin.com/in/mara-hofer-60b479243/'
+    link: 'https://ch.linkedin.com/in/lukas-lichtner-3017232a0'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -61,7 +60,5 @@ highlight_name: false
 user_groups:
   - Team members
 ---
-Mara Hofer is a student research assistant in the ethnography team of the CoMind Lab at the University of Bern. She studies social anthropology at the Department of Social Anthropology and Cultural Studies at the University of Bern. Mara is interested in the construction of knowledge in expert fields and in legitimation processes in hierarchical systems. 
-
-In her Bachelor's thesis, she examined discourses and practices in the context of decolonization processes in Swiss museums. Mara enjoys working with people and texts. From 2021 to 2025, she was a member of the editorial board of the student newspaper at the University of Bern. In 2024 she completed an internship in local journalism at the online medium “Hauptstadt”. From 2022 to 2024 she was a board member of the student body.
+Lara Morscheck is a PhD candidate at the Department of Emergency Medicine, University of Bern, and member of the CoMind Lab.
 

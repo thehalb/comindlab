@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Simone Däppen
-weight: 7
+weight: 8
 
 # Full Name (for SEO)
 first_name: Simone
