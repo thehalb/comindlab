@@ -26,7 +26,7 @@ education:
       year: 2025 - present
     - course: MSc in Psychology
       institution: University of Basel, Switzerland
-      year: 2024-2025
+      year: 2023-2025
     - course: BSc in Psychology
       institution: University of Basel, Switzerland
       year: 2020-2023
