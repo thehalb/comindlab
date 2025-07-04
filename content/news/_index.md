@@ -2,6 +2,8 @@
 title: News
 pager: false
 ---
+**July 2025**: Lukas Lichtner starts his PhD at the CoMind Lab.
+
 **May 2025:** Juliane Kämmer presents the work of the CoMind Lab at this year´s ABC workshop in Rome that reunites all former members of the [Center for Adaptive Behavior and Cognition](https://www.mpib-berlin.mpg.de/research/concluded-areas/center-for-adaptive-behavior-and-cognition).
 
 
