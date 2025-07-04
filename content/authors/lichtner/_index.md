@@ -60,5 +60,5 @@ highlight_name: false
 user_groups:
   - Team members
 ---
-Lara Morscheck is a PhD candidate at the Department of Emergency Medicine, University of Bern, and member of the CoMind Lab.
+Lukas Lichtner is a PhD candidate at the Department of Emergency Medicine, University of Bern, and member of the CoMind Lab.
 
