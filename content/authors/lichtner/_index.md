@@ -18,6 +18,10 @@ organizations:
   - name: University of Bern
     url: 'https://www.unibe.ch/'
 
+interests:
+  - Diagnostic decision making in medical teams
+  - Behaviour change
+  - Operationalization and implementation of research findings
 
 education:
   courses:
@@ -60,5 +64,9 @@ highlight_name: false
 user_groups:
   - Team members
 ---
-Lukas Lichtner is a PhD candidate at the Department of Emergency Medicine, University of Bern, and member of the CoMind Lab.
+Lukas Lichtner is a PhD candidate at the Department of Emergency Medicine, University of Bern, and a member of the CoMind Lab. His doctoral research explores team interactions during medical diagnosis and involves the development of a tool to assess the performance of diagnostic teams.
+
+During his studies at the University of Basel, he gained valuable research experience in the fields of behaviour change related to sustainability, as well as risk perception and risk polarization. In addition, his work as a junior consultant provided practical experience in market research, with a focus on understanding customer needs across a range of industries.
+
+He is particularly interested in bridging the gap between research and practice, with a focus on translating empirical findings into actionable tools and interventions.
 
