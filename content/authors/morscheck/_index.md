@@ -30,10 +30,10 @@ education:
       year: 2024 - present
     - course: MSc in Psychology
       institution: Georg-August University Göttingen, Germany
-      year: 2022-2024
+      year: 2022 - 2024
     - course: BSc in Psychology
       institution: Georg-August University Göttingen, Germany
-      year: 2019-2022
+      year: 2019 - 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
