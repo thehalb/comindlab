@@ -19,17 +19,20 @@ sections:
 
   - block: markdown
     content:
-      title: The CoMind Lab at INGRoup 2025
+      title: Study participants wanted
       text: |
-        We’re excited to announce that the CoMind Lab will host a workshop at this year’s [INGRoup conference](https://www.ingroup.net/content.aspx?page_id=22&club_id=300815&module_id=670795) on July 17 2025 in Rotterdam:
+        🔬 Online study on teamwork in medical diagnoses.
 
-        “Team Research Reimagined: Applying Diverse Perspectives on Team Interactions.”
+        Are you a junior doctor in Germany or Switzerland, at least in your second year of further training and have at least 12 months of experience in emergency or internal medicine?
+        If so, we cordially invite you to participate in our anonymous online study, 'Influence of teamwork on medical diagnoses'!
 
-        Join us to explore a wide range of methods in team research—from ethnographies to behavioral observations in simulation settings. Whether you're new to team studies or looking to broaden your methodological toolkit, this workshop offers fresh insights and inspiration.
+        👩⚕️ What can you expect?
+        Short, fictional patient cases (make diagnoses alone or in pairs).
+        Duration: max. 2 hours (completely online via Zoom).
+        Remuneration: 100 CHF or EUR per person.
+        Additionally: the chance to win a voucher worth 500 CHF/EUR.
 
-        For further details, [please visit this page.](https://www.soscisurvey.de/INGRoup_workshopA/)
-
-        [Please register here.](https://www.ingroup.net/content.aspx?page_id=22&club_id=300815&module_id=722830)
+        📅 All information and appointment booking can be found [here](https://lnkd.in/eFKadZAH).
 
     design:
       columns: "2"
@@ -50,13 +53,13 @@ sections:
     content:
       title: News
       text: |
+
+        **July 2025**: The CoMind Lab hosts a workshop at the [INGRoup conference](https://www.ingroup.net/content.aspx?page_id=22&club_id=300815&module_id=670795) in Rotterdam: “Team Research Reimagined: Applying Diverse Perspectives on Team Interactions.”
+        
         **July 2025**: Lukas Lichtner starts his PhD at the CoMind Lab.
         
         **May 2025:** Juliane Kämmer presents the work of the CoMind Lab at this year´s ABC workshop in Rome that reunites all former members of the [Center for Adaptive Behavior and Cognition](https://www.mpib-berlin.mpg.de/research/concluded-areas/center-for-adaptive-behavior-and-cognition).
 
-        **April 2025:** First retreat of the CoMind research group.
-
-        **February 2025:** Maike Isaac starts her Postdoc at the CoMind Lab. Mara Hofer and Theresa Halbritter join the research group as student research assistants.
     design:
       width: "normal"  
       justify: center
