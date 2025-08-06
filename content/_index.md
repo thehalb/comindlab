@@ -32,7 +32,7 @@ sections:
         Remuneration: 100 CHF or EUR per person.
         Additionally: the chance to win a voucher worth 500 CHF/EUR.
 
-        📅 All information and appointment booking can be found [here](https://lnkd.in/eFKadZAH).
+        📅 All information and appointment booking can be found [here](https://www.soscisurvey.de/studie-diagnoseteam-info/).
 
     design:
       columns: "2"
