@@ -24,13 +24,15 @@ sections:
         🔬 Online study on teamwork in medical diagnoses.
 
         Are you a junior doctor in Germany or Switzerland, at least in your second year of further training and have at least 12 months of experience in emergency or internal medicine?
+        
         If so, we cordially invite you to participate in our anonymous online study, 'Influence of teamwork on medical diagnoses'!
 
         👩⚕️ What can you expect?
-        Short, fictional patient cases (make diagnoses alone or in pairs).
-        Duration: max. 2 hours (completely online via Zoom).
-        Remuneration: 100 CHF or EUR per person.
-        Additionally: the chance to win a voucher worth 500 CHF/EUR.
+        
+        - Short, fictional patient cases (make diagnoses alone or in pairs).
+        - Duration: max. 2 hours (completely online via Zoom).
+        - Remuneration: 100 CHF or EUR per person.
+        - Additionally: the chance to win a voucher worth 500 CHF/EUR.
 
         📅 All information and appointment booking can be found [here](https://www.soscisurvey.de/studie-diagnoseteam-info/).
 
