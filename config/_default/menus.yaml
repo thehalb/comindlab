@@ -17,17 +17,20 @@ main:
   - name: Outreach
     url: outreach
     weight: 40
+  - name: Master Thesis
+    url: masterthesis
+    weight: 50
   - name: Team
     url: team
-    weight: 50
+    weight: 60
   - name: Cooperations
     url: cooperations
-    weight: 60
+    weight: 70
   - name: News
     url: news
-    weight: 70
+    weight: 80
   - name: Contact
     url: contact
-    weight: 80
+    weight: 90
 
 
