@@ -27,7 +27,7 @@ education:
   courses:
     - course: MSc Student in Psychology
       institution: University of Bern, Switzerland
-      year: 2023 - present
+      year: 2023 - present 
     - course: Exchange Semester 
       institution: National Taiwan University, Taiwan
       year: 2024 - 2025
