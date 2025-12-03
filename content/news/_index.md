@@ -2,6 +2,8 @@
 title: News
 pager: false
 ---
+**November 2025**: Lara finishes her data collection for her study on teamwork in medical diagnoses.
+
 **July 2025**: The CoMind Lab hosts a workshop at the [INGRoup conference](https://www.ingroup.net/content.aspx?page_id=22&club_id=300815&module_id=670795) in Rotterdam: “Team Research Reimagined: Applying Diverse Perspectives on Team Interactions.”
 
 **July 2025**: Lukas Lichtner starts his PhD at the CoMind Lab.
