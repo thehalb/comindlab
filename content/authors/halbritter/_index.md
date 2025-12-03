@@ -59,7 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team members
+  - Past members
 ---
 Theresa Halbritter is a student research assistant at the CoMind Lab, where she contributes to ongoing research projects in psychology. She is currently pursuing a Master’s degree in Psychology at the University of Bern, specializing in cognitive psychology, perception, and research methods. As part of her studies, she is conducting her Master’s thesis in cognitive neuroscience at the University Hospital of Old Age Psychiatry and Psychotherapy (UPD).
 
