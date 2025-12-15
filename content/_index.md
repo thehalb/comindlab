@@ -16,6 +16,9 @@ sections:
         filename: landingpage.jpg
       design:
         columns: '2'
+        background:
+        color: 'navy'
+        text_color_light: true 
 
   - block: markdown
     content:
@@ -33,11 +36,11 @@ sections:
     content:
       title: News
       text: |
-        **November 2025**: Lara finishes her data collection for her study on teamwork in medical diagnoses.
+        **December**: The CoMind Lab is participating in the [BSAH Conference] (https://bsah.info/) in London.
+
+        **November 2025**: Team Ethnography completes the first half of its data collection (more information about the study can be found [here](https://www.teams-notfall.org/)). Lara completes her data collection for her study on teamwork in medical diagnoses.
 
         **July 2025**: The CoMind Lab hosts a workshop at the [INGRoup conference](https://www.ingroup.net/content.aspx?page_id=22&club_id=300815&module_id=670795) in Rotterdam: “Team Research Reimagined: Applying Diverse Perspectives on Team Interactions.”
-        
-        **July 2025**: Lukas Lichtner starts his PhD at the CoMind Lab.
         
     design:
       width: "normal"  
