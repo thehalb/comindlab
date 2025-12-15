@@ -17,8 +17,8 @@ sections:
       design:
         columns: '2'
         background:
-        color: 'navy'
-        text_color_light: true 
+          color: 'navy'
+          text_color_light: true 
 
   - block: markdown
     content:
@@ -36,7 +36,7 @@ sections:
     content:
       title: News
       text: |
-        **December**: The CoMind Lab is participating in the [BSAH Conference] (https://bsah.info/) in London.
+        **December**: The CoMind Lab is participating in the [BSAH Conference](https://bsah.info/) in London.
 
         **November 2025**: Team Ethnography completes the first half of its data collection (more information about the study can be found [here](https://www.teams-notfall.org/)). Lara completes her data collection for her study on teamwork in medical diagnoses.
 
