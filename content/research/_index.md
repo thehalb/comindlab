@@ -1,6 +1,5 @@
 ---
 title: Research
-type: landing
 showDate: false
 
 # Listing view

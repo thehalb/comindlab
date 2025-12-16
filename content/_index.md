@@ -36,11 +36,11 @@ sections:
     content:
       title: News
       text: |
-        **December**: The CoMind Lab is participating in the [BSAH Conference](https://bsah.info/) in London.
+        **December**: The CoMind Lab is participating in the [BSAH Conference](https://bsah.info/) in London with two posters, a talk, and a workshop.
 
-        **November 2025**: Team Ethnography completes the first half of its data collection (more information about the study can be found [here](https://www.teams-notfall.org/)). Lara completes her data collection for her study on teamwork in medical diagnoses.
+        **November 2025**: Team Ethnography completes the first half of its data collection (more information about the study can be found [here](https://www.teams-notfall.org/)). Lara completes the data collection for her study on teamwork in medical diagnoses.
 
-        **July 2025**: The CoMind Lab hosts a workshop at the [INGRoup conference](https://www.ingroup.net/content.aspx?page_id=22&club_id=300815&module_id=670795) in Rotterdam: “Team Research Reimagined: Applying Diverse Perspectives on Team Interactions.”
+        **September/November**: Juliane presents the work of the CoMind Lab at the [Society & Choice Research Seminar](https://psychologie.unibas.ch/de/forschung/forschung-bei-uns/schwerpunkte/society-and-choice/society-choice-seminar/) at the University of Basel and at the [Organizational Behavior Semiar](https://www.unil.ch/hec/en/home/menuinst/faculte/departements/ob/seminaires-evenements.html) at Unil.
         
     design:
       width: "normal"  
