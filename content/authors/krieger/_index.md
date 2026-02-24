@@ -57,6 +57,7 @@ highlight_name: false
 user_groups:
   - Team members
 ---
-Luisa is currently studying for her master’s degree in working and organizational psychology at the Technical University of Braunschweig, Germany, after obtaining her bachelor’s degree in psychology at the University of Göttingen, Germany. Early on in her bachelor’s degree, she developed an interest in team dynamics while interning with daycare teams working with disabled children. Alongside her master’s degree, she works as a junior people & culture manager at an influencer marketing agency to collect further experience in different team settings. 
+Luisa is currently studying for her master’s degree in working and organizational psychology at the Technical University of Braunschweig, Germany, after obtaining her bachelor’s degree in psychology at the University of Göttingen, Germany. Early on in her bachelor’s degree, she developed an interest in team dynamics while interning with daycare teams working with disabled children. Alongside her master’s degree, she works as a junior people & culture manager at an influencer marketing agency to collect further experience in different team settings.
+
 During her internship, she supports the team of CoMind Lab, particularly PhD Candidate Lukas Lichtner, in the research of diagnostic team interactions and the development of a tool to evaluate performances of diagnostic teams.
 
