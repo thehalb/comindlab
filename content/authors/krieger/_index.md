@@ -15,7 +15,7 @@ role: Intern
 
 # Organizations/Affiliations
 organizations:
-  - name: Technical University of Braunschweig, Germany
+  - name: Technical University of Braunschweig
 
     url: 'https://www.tu-braunschweig.de/'
 
