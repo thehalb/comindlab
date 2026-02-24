@@ -20,7 +20,7 @@ organizations:
     url: 'https://www.tu-braunschweig.de/'
 
 interests:
-  - team dynamics
+  - Team dynamics
 
 education:
   courses:
