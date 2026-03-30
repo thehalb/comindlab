@@ -55,7 +55,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team members
+  - Past members
 ---
 Luisa is currently studying for her master’s degree in working and organizational psychology at the Technical University of Braunschweig, Germany, after obtaining her bachelor’s degree in psychology at the University of Göttingen, Germany. Early on in her bachelor’s degree, she developed an interest in team dynamics while interning with daycare teams working with disabled children. Alongside her master’s degree, she works as a junior people & culture manager at an influencer marketing agency to collect further experience in different team settings.
 
