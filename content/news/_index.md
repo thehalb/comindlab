@@ -2,6 +2,12 @@
 title: News
 pager: false
 ---
+**April 2026**: The CoMind Lab has its second retreat and is joined by Prof. Dr. Markus Feufel for a workshop on decision making in emergency medicine. 
+
+**February/March 2026**: Luisa Krieger temporarily joins the group for her internship on diagnostic team interactions and tool development.
+
+**January 2026**: Team Ethnography starts the second half of its data collection at a second site. 
+
 **December 2025**: The CoMind Lab is participating in the [BSAH Conference](https://bsah.info/) in London with two posters, a talk, and a workshop.
 
 **November 2025**: Team Ethnography completes the first half of its data collection (more information about the study can be found [here](https://www.teams-notfall.org/)). Lara completes the data collection for her study on teamwork in medical diagnoses.
