@@ -36,12 +36,12 @@ sections:
     content:
       title: News
       text: |
-      **April 2026**: The CoMind Lab has its second retreat and is joined by Prof. Dr. Markus Feufel for a workshop on decision making in
-      emergency medicine 
-      
-      **February/March 2026**: Luisa Krieger temporarily joins the group for her internship on diagnostic team interactions and tool development.
-      
-      **January 2026**: Team Ethnography starts the second half of its data collection at a second site. 
+        **April 2026**: The CoMind Lab has its second retreat and is joined by Prof. Dr. Markus Feufel for a workshop on decision making in
+        emergency medicine 
+        
+        **February/March 2026**: Luisa Krieger temporarily joins the group for her internship on diagnostic team interactions and tool development.
+        
+        **January 2026**: Team Ethnography starts the second half of its data collection at a second site. 
         
     design:
       width: "normal"  
