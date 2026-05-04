@@ -74,3 +74,5 @@ From the beginning of her bachelor’s degree in psychology at Georg-August-Univ
 
 Throughout her studies, Lara developed a strong specialization in group processes, with a particular interest in group decision-making under uncertainty, a topic that continues to shape her academic and professional pursuits.
 
+For publications, see [Publications.](https://comindlab.org/publication/)
+
