@@ -12,7 +12,7 @@ banner:
 For a full publication list see [Google Scholar](https://scholar.google.de/citations?user=S56rRf8AAAAJ&hl=de).
 <br> <br>
 
-### **Conference Contributions**
+### **Conference Contributions (in chronological order)**
 
 Kämmer, J. E., Boos, M., Seelandt, J., Gevers, J., Keller, S., Wiltshire, T. (2025, Dec 4–5). Team research reimagined: Applying diverse perspectives on team interactions [Workshop]. 19th BSAH (Behavioural Science Applied to Healthcare) conference, London, Great Britain.
 
