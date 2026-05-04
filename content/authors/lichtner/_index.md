@@ -70,3 +70,4 @@ During his studies at the University of Basel, he gained valuable research exper
 
 He is particularly interested in bridging the gap between research and practice, with a focus on translating empirical findings into actionable tools and interventions.
 
+For publications, see [Publications.](https://comindlab.org/publication/)
