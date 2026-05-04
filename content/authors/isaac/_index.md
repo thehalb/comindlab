@@ -63,4 +63,6 @@ Maike Isaac leads the ethnographic study on team processes in emergency medicine
 
 For her dissertation, she conducted ethnographic research on the recruitment and training of men from countries in West Asia and Africa as elderly care workers in Germany. Her study explored how their public image as allegedly hypermasculine and “dangerous” men shaped their work experiences, relationships with colleagues, and their positions within teams.
 
-During her doctoral studies, Maike was a fellow at the Max Planck Institute for the Study of Religious and Ethnic Diversity, where she was part of an international team of ethnographers researching care work, migration, and aging. Her research was supported by the Fonds de Recherche du Québec, the Jean Monnet Centre Montréal, and the Waterloo Centre for German Studies at the University of Waterloo, Canada, among others
+During her doctoral studies, Maike was a fellow at the Max Planck Institute for the Study of Religious and Ethnic Diversity, where she was part of an international team of ethnographers researching care work, migration, and aging. Her research was supported by the Fonds de Recherche du Québec, the Jean Monnet Centre Montréal, and the Waterloo Centre for German Studies at the University of Waterloo, Canada, among others.
+
+For publications, see [Publications.](https://comindlab.org/publication/)
