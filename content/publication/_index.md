@@ -14,11 +14,17 @@ For a full publication list see [Google Scholar](https://scholar.google.de/citat
 
 ### **Conference Contributions (in chronological order)**
 
+**2025**
+
 Kämmer, J. E., Boos, M., Seelandt, J., Gevers, J., Keller, S., Wiltshire, T. (2025, Dec 4–5). Team research reimagined: Applying diverse perspectives on team interactions [Workshop]. 19th BSAH (Behavioural Science Applied to Healthcare) conference, London, Great Britain.
 
 Kämmer, J. E., Hautz, S. C., Sauter, T. C., & Hautz, W. E. (2025, Dec 4–5). Adaptive team coordination when diagnosing a patient in the emergency room: The ERinteract study [Conference presentation]. 19th BSAH (Behavioural Science Applied to Healthcare) conference, London, Great Britain.
 
 Lichtner, L. (2025, Dec 4-5). Efforts Towards the Reduction of Diagnostic Error: PhD Research Plan [Poster presentation]. 19th BSAH (Behavioural Science Applied to Healthcare) conference, London, Great Britain.
+
+Morscheck, L. F. & Kämmer, J. E. (2025, Dec 4–5). Shared Errors or Corrective Insight? Investigating Teamwork as a Strategy to Improve Diagnostic Accuracy in Challenging Diagnostic Situations [Poster presentation]. 19th BSAH (Behavioural Science Applied to Healthcare) conference, London, Great Britain.
+
+Morscheck, L. F. & Kämmer, J. E. (2025, Nov 26–27). Shared Errors or Corrective Insight? Investigating Teamwork as a Strategy to Improve Diagnostic Accuracy in Challenging Diagnostic Situations [Poster presentation]. 17th Symposium of the Graduate School for Health Sciences, Gerzensee, Switzerland. 
 
 Kämmer, J. E., Hautz, W. E., Krummrey, G., Spizzo, M., Penders, D., Sauter, T. C., & Bienefeld, N. (2025, Aug 31–Sept 4). When AI joins the diagnostic team: Exploring the potential of an LLM for medical diagnostic decision-making [Conference presentation]. SPUDM (Subjective Probability, Utility & Decision Making) conference, Lucca, Italy.
 
@@ -26,7 +32,11 @@ Kämmer, J. E., Boos, M., Seelandt, J., Bienefeld, N., Gevers, J., Isaac, M., Ke
 
 Kämmer, J. E. (2025, May 22–24). The ABC of team-based diagnosis [Conference presentation]. ABC Retreat “Heuristics in Government”, Rome, Italy.
 
+**2024**
+
 Kämmer, J. E., Hautz, W. E., Krummrey, G., Penders, D., Sauter, T. C., & Bienefeld, N. (2024, Nov 29–30). When AI joins the diagnostic team: Effects of interacting with ChatGPT compared to a human coach on the clinical diagnostic process and outcomes [Conference presentation]. 18th BSAH (Behavioural Science Applied to Healthcare) conference, Stavanger, Norway.
 
+Morscheck, L. F. & Kämmer, J. E. (2024, Nov 29–30). Among Novices and Experts: How Does Team Composition Affect the Diagnostic Process and Outcomes? A PhD Research Plan [Poster presentation]. 
+18th BSAH (Behavioural Science Applied to Healthcare) conference, Stavanger, Norway.
 
 ### **Key Publications**
