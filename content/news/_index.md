@@ -2,7 +2,7 @@
 title: News
 pager: false
 ---
-**May 2026**: New Publication! Maike Isaac's paper on racially stigmatized men in German care homes can be found [here](https://doi.org/10.5334/pme.1767).
+**May 2026**: New Publication! Maike Isaac's paper on racially stigmatized men in German care homes can be found [here](https://doi.org/10.1177/08912432261448858).
 
 **May 2026**: New Publication! The paper on Self-Monitoring Accuracy, co-authored by Juliane Kämmer, can be found [here](https://doi.org/10.5334/pme.1767).
 
