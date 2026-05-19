@@ -20,6 +20,8 @@ Understanding the strengths and limitations of self-monitoring is essential for 
 
 - Hautz, W. E., Schubert, S., Schauber, S. K., Kunina‐Habenicht, O., Hautz, S. C., Kämmer, J. E., & Eva, K. W. (2019). Accuracy of self‐monitoring: Does experience, ability or case difficulty matter? Medical Education, 53(7), 735–744. https://doi.org/10.1111/medu.13801
 
+- Hautz, W. E., Marcin, T., Schauber, S. K., Walter, R., Hautz, S. C., Birrenbach, T., Lehmann, B., Sauter, T. C., Hari, R., Kämmer, J. E. (2026). Self-Monitoring Accuracy over Time for a Complex Diagnostic Skill. Perspectives on Medical Education, 15(1), 420–431. https://doi.org/10.5334/ pme.1767
+
 - Kämmer, J. E., Hautz, W. E., & März, M. (2020). Self‐monitoring accuracy does not increase throughout undergraduate medical education. Medical Education, 54(4), 320–327. https://doi.org/10.1111/medu.14057
 
 - Krockow, E. M., Kurvers, R. H. J. M., Herzog, S. M., Kämmer, J. E., Hamilton, R. A., Thilly, N., Macheda, G., & Pulcini, C. (2020). Harnessing the wisdom of crowds can improve guideline compliance of antibiotic prescribers and support antimicrobial stewardship. Scientific Reports, 10(1), 18782. https://doi.org/10.1038/s41598-020-75063-z
