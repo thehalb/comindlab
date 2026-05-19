@@ -36,6 +36,8 @@ sections:
     content:
       title: News
       text: |
+        **May 2026**: New Publication! Maike Isaac's paper on racially stigmatized men in German care homes can be found [here](https://doi.org/10.5334/pme.1767).
+    
         **May 2026**: New Publication! The paper on Self-Monitoring Accuracy, co-authored by Juliane Kämmer, can be found [here](https://doi.org/10.5334/pme.1767).
         
         **April 2026**: The CoMind Lab has its second retreat and is joined by Prof. Dr. Markus Feufel for a workshop on decision making in
