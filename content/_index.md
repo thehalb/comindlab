@@ -36,12 +36,12 @@ sections:
     content:
       title: News
       text: |
+        **May 2026**: New Publication! The paper on Self-Monitoring Accuracy, co-authored by Juliane Kämmer, can be found [here](https://doi.org/10.5334/pme.1767).
+        
         **April 2026**: The CoMind Lab has its second retreat and is joined by Prof. Dr. Markus Feufel for a workshop on decision making in
         emergency medicine 
         
         **February/March 2026**: Luisa Krieger temporarily joins the group for her internship on diagnostic team interactions and tool development.
-        
-        **January 2026**: Team Ethnography starts the second half of its data collection at a second site. 
         
     design:
       width: "normal"  
