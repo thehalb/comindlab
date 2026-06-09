@@ -36,7 +36,7 @@ sections:
     content:
       title: News
       text: |
-        **May 2026** Exiting News: Team Ethnography successfully completed the data collection phase, resulting in 520 hours of participant observation and 60 interviews!
+        **May 2026**: Exiting News: Team Ethnography successfully completed the data collection phase, resulting in 520 hours of participant observation and 60 interviews!
 
         **May 2026**: New Publication! Maike Isaac's paper on racially stigmatized men in German care homes can be found [here](https://doi.org/10.1177/08912432261448858).
     
