@@ -36,12 +36,11 @@ sections:
     content:
       title: News
       text: |
-        **May 2026**: Exiting News: Team Ethnography successfully completed the data collection phase, resulting in 520 hours of participant observation and 60 interviews!
+        **September 2026**: Juliane, Maike and Lukas present first results of the [ethnographic study in the emergency room](https://www.teams-notfall.org/), the diagnostic tool project and on self-monitoring at the               [20th Behavioural Sciences Applied to Healthcare](https://bsah.info/) in Amsterdam.
 
-        **May 2026**: New Publication! Maike Isaac's paper on racially stigmatized men in German care homes can be found [here](https://doi.org/10.1177/08912432261448858).
-    
-        **May 2026**: New Publication! The paper on Self-Monitoring Accuracy, co-authored by Juliane Kämmer, can be found [here](https://doi.org/10.5334/pme.1767).
-         
+        **August 2026**: Lukas takes part in the AOW Writing Workshop 2026 of the DGPs at the Technical University of Braunschweig.
+
+        **June 2026**: Juliane talks about the power of teamwork during ED diagnostic decision making at the [25th International Conference on Emergency Medicine](https://icem2026.com/) in Hamburg.
         
         
     design:
