@@ -15,13 +15,13 @@ For a full publication list see [Google Scholar](https://scholar.google.de/citat
 ### **Conference Contributions (in chronological order)**
 **2026**
 
-Isaac, M., Kämmer, J.E. (2026, Sept 17-18). The Diagnostic Process in Emergency Medicine: An Ethnographic Study [Conference presentation]. 20th BSAH (Behavioural Sciences for Acute Healthcare), Amsterdam, The Netherlands
+Isaac, M., Kämmer, J.E. (2026, Sept 17-18). *The Diagnostic Process in Emergency Medicine: An Ethnographic Study* [Conference presentation]. 20th BSAH (Behavioural Sciences for Acute Healthcare), Amsterdam, The Netherlands
 
-Kämmer, J. E. (2026, Sept 17-18). Self-monitoring in healthcare: Development, determinants, and implications for practice [Conference presentation]. 20th BSAH (Behavioural Sciences for Acute Healthcare), Amsterdam, The Netherlands.
+Kämmer, J. E. (2026, Sept 17-18). *Self-monitoring in healthcare: Development, determinants, and implications for practice* [Conference presentation]. 20th BSAH (Behavioural Sciences for Acute Healthcare), Amsterdam, The Netherlands.
 
-Lichtner, L., Seelandt, J., Lavelle, M., Fosker, T., Kämmer, J.E. (2026, Sept 17-18). How Can Teamwork During Diagnostic Decision-Making Be Measured? [Conference presentation]. 20th BSAH (Behavioural Sciences for Acute Healthcare), Amsterdam, The Netherlands
+Lichtner, L., Seelandt, J., Lavelle, M., Fosker, T., Kämmer, J.E. (2026, Sept 17-18). *How Can Teamwork During Diagnostic Decision-Making Be Measured?* [Conference presentation]. 20th BSAH (Behavioural Sciences for Acute Healthcare), Amsterdam, The Netherlands
 
-Kämmer, J. E. (2026, June 9-13). The power of teamwork during ED diagnostic decision making [Conference presentation]. 25th ICEM (International Conference on Emergency Medicine), Hamburg, Germany.
+Kämmer, J. E. (2026, June 9-13). *The power of teamwork during ED diagnostic decision making* [Conference presentation]. 25th ICEM (International Conference on Emergency Medicine), Hamburg, Germany.
 
 **2025**
 
