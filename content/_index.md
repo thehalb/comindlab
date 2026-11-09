@@ -36,11 +36,11 @@ sections:
     content:
       title: News
       text: |
+        **November 2026**: New Publication! The paper on ethnographic practices as an approach to studying diagnostic processes can be found [here](https://doi.org/10.1515/dx-2026-0116).
+    
         **September 2026**: Juliane, Maike and Lukas present first results of the [ethnographic study in the emergency room](https://www.teams-notfall.org/), the diagnostic tool project and on self-monitoring at the               [20th Behavioural Sciences Applied to Healthcare](https://bsah.info/) in Amsterdam.
 
         **August 2026**: Lukas takes part in the AOW Writing Workshop 2026 of the DGPs at the Technical University of Braunschweig.
-
-        **June 2026**: Juliane talks about the power of teamwork during ED diagnostic decision making at the [25th International Conference on Emergency Medicine](https://icem2026.com/) in Hamburg.
         
         
     design:
