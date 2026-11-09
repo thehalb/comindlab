@@ -16,7 +16,7 @@ links:
 - name: URL
   url: https://www.degruyterbrill.com/document/doi/10.1515/dx-2026-0116/html
 - name: PDF
-  url: 
+  url: /isaac_diagnosis_2026.pdf
 ---
 **Abstract**
 
