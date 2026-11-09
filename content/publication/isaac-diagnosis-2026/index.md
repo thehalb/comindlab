@@ -6,7 +6,7 @@ authors:
 - Sonja Guglielmetti
 - Juliane E. Kämmer
 date: '2026-11-06'
-publishDate: '2026-11-09T09:01:00.000000Z'
+publishDate: '2026-11-06T00:00:00Z'
 publication_types:
 - article-journal
 publication: '*Diagnosis*'
