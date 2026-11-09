@@ -2,7 +2,7 @@
 title: 'Diagnosis as a social process: benefits of classic ethnographic practices and some practical considerations'
 authors:
 - Maike Isaac
-- Wolf. E. Hautz
+- Wolf E. Hautz
 - Sonja Guglielmetti
 - Juliane E. Kämmer
 date: '2026-11-06'
